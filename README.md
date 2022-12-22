@@ -8,6 +8,17 @@ This is a web based application developed for lifestyle related english based we
 *Project Link* - https://mango-river-0326b1100.2.azurestaticapps.net
 
 
+
+*Github Link*-
+
+
+
+
+*Demo Video Link*-
+
+
+
+
 ## Features and Functionalities 😃
 
 - Interactive and responsive UI.
@@ -45,6 +56,14 @@ This is a web based application developed for lifestyle related english based we
 
 
 ### Contact-![PP4](https://user-images.githubusercontent.com/115874449/208628800-c47514e6-c29c-4c17-8004-fbb6fe76fcf0.png)
+
+
+### Static Web Apps-![image](https://user-images.githubusercontent.com/115874449/209102121-05537d8e-2d46-48d1-9f83-a6d210915e15.png)
+
+
+
+
+###  Azure Health Bot-![image](https://user-images.githubusercontent.com/115874449/209102392-6777e254-6f1c-49c0-adb5-3cb7f1bd5920.png)
 
 
 
