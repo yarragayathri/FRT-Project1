@@ -7,16 +7,11 @@ This is a web based application developed for lifestyle related english based we
 
 *Project Link* - https://mango-river-0326b1100.2.azurestaticapps.net
 
+*Github Link*-https://github.com/yarragayathri/FRT-Project1
 
 
-*Github Link*-
-
-
-
-
-*Demo Video Link*-
-
-
+# Project Abstract:
+A professional golfer is somebody who receives payments or financial rewards in the sport of golf that are directly related to their skill or reputation .Professional golf tours, which covers elite professional competitive golf and links to more detailed articles about each tour. Most of the subcategories.
 
 
 ## Features and Functionalities 😃
