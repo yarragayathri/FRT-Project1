@@ -7,7 +7,9 @@ This is a web based application developed for lifestyle related english based we
 
 *Project Link* - https://mango-river-0326b1100.2.azurestaticapps.net
 
-*Github Link*-https://github.com/yarragayathri/FRT-Project1
+*Github Reposistory Link*-https://github.com/yarragayathri/FRT-Project1
+
+*Github project Link*-https://yarragayathri.github.io/FRT-Project1/
 
 
 # Project Abstract:
