@@ -53,31 +53,10 @@ A professional golfer is somebody who receives payments or financial rewards in 
 
 
 
-### Health bot-![PP5](https://user-images.githubusercontent.com/115874449/208630773-926a6b40-bbd0-4f38-b1dc-7b47e3b37f73.png)
-
-
-
-
-
-
 
 ### scenario management![image](https://user-images.githubusercontent.com/115874449/213120627-6d60565f-f0f3-4bb4-80ea-62d0ee9d8e3b.png)
 
 
-
-
-
-
-
-
-
-### Services-![PP3](https://user-images.githubusercontent.com/115874449/208628581-bc786614-5c20-4510-b06c-a036a0a47faa.png)
-
-
-
-
-
-### Contact-![PP4](https://user-images.githubusercontent.com/115874449/208628800-c47514e6-c29c-4c17-8004-fbb6fe76fcf0.png)
 
 
 
@@ -91,6 +70,7 @@ A professional golfer is somebody who receives payments or financial rewards in 
 
 
 
+
 ### About -![PP2](https://user-images.githubusercontent.com/115874449/208628230-7d4cd69e-ff4f-4750-b5b4-5f656e847d19.png)
 
 
@@ -98,6 +78,25 @@ A professional golfer is somebody who receives payments or financial rewards in 
 
 
 
+
+### Services-![PP3](https://user-images.githubusercontent.com/115874449/208628581-bc786614-5c20-4510-b06c-a036a0a47faa.png)
+
+
+
+
+
+
+
+
+### Contact-![PP4](https://user-images.githubusercontent.com/115874449/208628800-c47514e6-c29c-4c17-8004-fbb6fe76fcf0.png)
+
+
+
+
+
+
+
+### Health bot-![PP5](https://user-images.githubusercontent.com/115874449/208630773-926a6b40-bbd0-4f38-b1dc-7b47e3b37f73.png)
 
 
 
