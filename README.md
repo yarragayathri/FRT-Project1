@@ -71,6 +71,12 @@ A professional golfer is somebody who receives payments or financial rewards in 
 ### Health bot-![PP5](https://user-images.githubusercontent.com/115874449/208630773-926a6b40-bbd0-4f38-b1dc-7b47e3b37f73.png)
 
 
+
+### scenario management![image](https://user-images.githubusercontent.com/115874449/213120627-6d60565f-f0f3-4bb4-80ea-62d0ee9d8e3b.png)
+
+
+
+
 ## Tech Stack 💻
 
 - [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
