@@ -5,7 +5,7 @@ This is a web based application developed for lifestyle related english based we
 ### This web based lifestyle application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-*Project Link* - https://mango-river-0326b1100.2.azurestaticapps.net
+*Project Link* - https://proud-ocean-0d6246310.2.azurestaticapps.net
 
 *Github Reposistory Link*-https://github.com/yarragayathri/FRT-Project1
 
