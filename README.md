@@ -112,7 +112,7 @@ health bot 3:
 
 
 
-### Health bot-![PP5](https://user-images.githubusercontent.com/115874449/208630773-926a6b40-bbd0-4f38-b1dc-7b47e3b37f73.png)
+
 
 
 
