@@ -57,11 +57,9 @@ A professional golfer is somebody who receives payments or financial rewards in 
 
 
 
+
+
 ### Health bot working project2:
-![bot2](https://user-images.githubusercontent.com/115874449/213140324-397f4f83-5e4c-4d2a-a36b-58b5eefb1f3b.png)
-
-
-### Health bot working project3:
 
 
 
